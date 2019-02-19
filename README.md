@@ -1,2 +1,2 @@
-# NewResume
+# NewResume.github.io
 host
